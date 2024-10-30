@@ -1,4 +1,4 @@
-# Runestone toolbox Typescript
+# Runestone toolbox (Typescript)
 ---
 Runestone Etch, Mint, Transfer, Recursive Rune, Airdrop, Encipher, Decipher
 
